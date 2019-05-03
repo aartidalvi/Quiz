@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Quiz</string>
+    <string name="first_name">First (given) Name</string>
+    <string name="family_name">Family (last) Name</string>
+    <string name="nick_name">Nick Name</string>
+    <string name="age">Age</string>
+    <string name="signup">Sign up and start Quiz</string>
+    <string name="back">Back</string>
+    <string name="next">Next</string>
+    <string name="option">Option</string>
+    <string name="question">Question</string>
+    <string name="done">Done</string>
+    <string name="result">result</string>
+    <string name="score">Current Score</string>
+    <string name="scorevalue">0</string>
+    <string name="quiz">quiz</string>
+</resources>

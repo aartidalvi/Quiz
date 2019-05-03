@@ -1,0 +1,82 @@
+[
+  {
+    "Question" : "What is Pending Intent in android?",
+    "OptionA":"It is a kind of an intent",
+    "OptionB":"It is used to pass the data between activities",
+    "OptionC":"*It will fire at a future point of time.",
+    "OptionD":"None of the Above",
+    "Answer":2
+  },
+  {
+    "Question" : "What is android view group?",
+    "OptionA":"*Collection of views and other child views",
+    "OptionB":"Base class of building blocks",
+    "OptionC":"Layouts",
+    "OptionD":"None of the Above",
+    "Answer":0
+  },
+  {
+    "Question" : "On which thread broadcast receivers will work in android?",
+    "OptionA":"Worker Thread",
+    "OptionB":"*Main Thread",
+    "OptionC":"Activity Thread",
+    "OptionD":"None of the Above",
+    "Answer":1
+  },
+  {
+    "Question" : "How to store heavy structured data in android?",
+    "OptionA":"Shared Preferences",
+    "OptionB":"Cursor",
+    "OptionC":"*SQlite database",
+    "OptionD":"Not possible",
+    "Answer":2
+  },
+  {
+    "Question" : "What is the 9 patch tool in android?",
+    "OptionA":"*Using with tool, we can redraw images in 9 sections.",
+    "OptionB":"image extension tool",
+    "OptionC":"image editable tool",
+    "OptionD":"Device features",
+    "Answer":0
+  },
+  {
+    "Question" : "What is a base adapter in android?",
+    "OptionA":"*Base Adapter is a common class for any adapter, which can we use for both ListView and spinner",
+    "OptionB":"A kind of adapter",
+    "OptionC":"Data storage space",
+    "OptionD":"None of the above.",
+    "Answer":0
+  },
+  {
+    "Question" : "In which technique, we can refresh the dynamic content in android?",
+    "OptionA":"Java",
+    "OptionB":"*Ajax",
+    "OptionC":"Android",
+    "OptionD":"None of the Above",
+    "Answer":1
+  },
+  {
+    "Question" : "How many orientations does android support?",
+    "OptionA":"*4",
+    "OptionB":"10",
+    "OptionC":"2",
+    "OptionD":"None of the above",
+    "Answer":0
+  },
+  {
+    "Question" : "What is the purpose of super.onCreate() in android?",
+    "OptionA":"To create an activity",
+    "OptionB":"*To create a graphical window for subclass",
+    "OptionC":"It allows the developers to write the program",
+    "OptionD":"None of the above",
+    "Answer":1
+  },
+  {
+    "Question" : "What is a thread in android?",
+    "OptionA":"Same as services",
+    "OptionB":"Background activity",
+    "OptionC":"Broadcast Receiver",
+    "OptionD":"*Independent dis-patchable unit is called a thread",
+    "Answer":3
+  }
+]
